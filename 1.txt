@@ -1,2 +1,2 @@
-
+---Changed from clone directory test---
 Hello from 1.txt
